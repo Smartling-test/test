@@ -1,0 +1,45 @@
+# 
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2015-09-23 21:21-0700\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Genghis at appcelery29-sjc1\n"
+
+msgctxt "api:dynamic_key.FlowTypeSignupFormField.placeholder"
+msgid "At least 5 characters"
+msgstr ""
+
+msgctxt "api:dynamic_key.VehicleView.msg_no_cars_operational_city"
+msgid ""
+"Thanks SO much for checking out Uber. All cars are currently filled but "
+"please check back again shortly!"
+msgstr ""
+
+msgctxt "api:dynamic_key.VehicleView.msg_no_cars_operational_city"
+msgid "All uberX cars are in use. Please check back soon."
+msgstr ""
+
+msgctxt "api:dynamic_key.FlowTypeSignupFormField.placeholder"
+msgid "First Name"
+msgstr ""
+
+msgctxt "api:dynamic_key.FlowTypeSignupFormField.placeholder"
+msgid "Last Name"
+msgstr ""
+
+msgctxt "api:dynamic_key.VehicleView.msg_no_cars_operational_city"
+msgid ""
+"Sorry, there are no cars available now. Please try again soon or request a "
+"black car!"
+msgstr ""
+
+msgctxt "api:dynamic_key.FlowTypeSignupFormField.placeholder"
+msgid "name@email.com"
+msgstr ""
+
+msgctxt "api:dynamic_key.VehicleView.msg_no_cars_operational_city"
+msgid ""
+"All uberX cars are currently in use. Please check back soon or request a "
+"black car."
+msgstr ""
