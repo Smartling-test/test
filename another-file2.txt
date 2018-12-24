@@ -1,1 +1,2 @@
 another piece of simple text
+added with renaming
